@@ -1,0 +1,10 @@
+package me.erudev.restaurant.enums;
+
+/**
+ * @author pengfei.zhao
+ * @date 2021/2/12 8:22
+ */
+public enum ProductStatus {
+    AVALIABIE,
+    NOT_AVALIABLE;
+}
